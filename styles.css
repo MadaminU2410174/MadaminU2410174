@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+}
+h1 {
+    color: #333;
+}
+h2 {
+    color: #555;
+}
+.bold {
+    font-weight: bold;
+}
+.images img {
+    width: 200px;
+    height: auto;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+h1 {
+    color: #4CAF50; 
+}
+
+h2 {
+    color: #FF5733; 
+}
+
+
+p, ul, ol {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+}
+
+
+body {
+    background-color: #f0f0f0; 
+    text-align: center; 
+}
+
+.images img {
+    border: 2px solid #333; 
+}
